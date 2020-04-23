@@ -4,11 +4,11 @@ Take 2 twitter users, input a tweet, and see who is more likely to tweet it!
 
 ## Stack
 
-Web App: Flask<br>
-Tweets: Twitter API (Tweepy)<br>
-Word2Vec: Basilica.ai<br>
-Prediction: Linear Regression (lbfgs)<br>
-Database: PostreSQL<br>
+- Web App: Flask<br>
+- Tweets: Twitter API (Tweepy)<br>
+- Word2Vec: Basilica.ai<br>
+- Prediction: Linear Regression (lbfgs)<br>
+- Database: PostreSQL<br>
 
 ## Usage
 
