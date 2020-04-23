@@ -1,20 +1,4 @@
-# twitoff-13
-
-## Installation
-
-TODO: instructions
-
-## Setup
-
-TODO: instructions
-
-Migrate the db:
-
-```sh
-FLASK_APP=web_app flask db init
-FLASK_APP=web_app flask db migrate
-FLASK_APP=web_app flask db upgrade
-```
+# TwitOff
 
 ## Usage
 
