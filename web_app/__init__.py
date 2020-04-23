@@ -9,7 +9,7 @@ from web_app.routes.book_routes import book_routes
 from web_app.routes.twitter_routes import twitter_routes
 from web_app.routes.stats_routes import stats_routes
 
-DATABASE_URI = "sqlite:////home/jack/twitoff-13/twitoff_13.db" # TODO: read from env var
+DATABASE_URI = "sqlite:////home/jack/Desktop/TwitOff/twitoff_13.db" # TODO: read from env var
 SECRET_KEY = "super secret" # TODO: read from env var
 
 def create_app():
