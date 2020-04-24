@@ -20,3 +20,5 @@ FLASK_APP=web_app flask run
 export FLASK_APP=web_app # one-time thing, to set the env var
 flask run
 ```
+
+<a href="http://jackrossprojects.com"><img src="https://github.com/JackRossProjects/Traffic-Fatality-Analysis/blob/master/jrp.png" title="Jack Ross Projects" alt="Jack Ross Projects"></a>
